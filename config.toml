@@ -1,0 +1,29 @@
+baseURL = "http://example.org/"
+theme = "researcher"
+languageCode = "en-us"
+title = "Gaming Industry in SA, AU"
+enableEmoji = true
+
+[params]
+  author = "Raman Voranau"
+  description = "A simple monospaced resume theme for Hugo."
+  favicon = "favicon.ico"
+  [params.footer]
+    text = "By Raman Voranau"
+    url = "https://github.com/voranau"
+
+[permalinks]
+  "/" = "/:filename"
+
+[menu]
+  [[menu.main]]
+    name = "Author's Biography"
+    url = "/biography"
+    weight = 1
+  [[menu.main]]
+    name = "Team"
+    url = "/team"
+    weight = 2
+
+[markup.goldmark.renderer]
+  unsafe = true  # allow raw HTML in markdown files
