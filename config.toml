@@ -1,8 +1,9 @@
 baseURL = "http://example.org/"
-theme = "researcher"
+theme = "hugo-theme-codex"
 languageCode = "en-us"
-title = "Gaming Industry in SA, AU"
+title = "Leisure experiences of the video game developers"
 enableEmoji = true
+copyright = "© 2020−2021. Cultural participation of video game developers"
 
 [params]
   author = "Raman Voranau"
@@ -17,13 +18,21 @@ enableEmoji = true
 
 [menu]
   [[menu.main]]
-    name = "Author's Biography"
-    url = "/biography"
-    weight = 1
+    name = "Researcher"
+    url = "/researcher"
+    weight = 4
   [[menu.main]]
     name = "Team"
     url = "/team"
+    weight = 3
+  [[menu.main]]
+    name = "About"
+    url = "/about"
     weight = 2
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
 
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files
