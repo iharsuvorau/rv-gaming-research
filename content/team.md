@@ -3,7 +3,7 @@ title: "Team"
 ---
 
 ## Researcher
-Raman Voranau, MSc. Masters by Research Candidate, University of South Australia, UniSA Business
+[Raman Voranau](/researcher), MSc. Masters by Research Candidate, University of South Australia, UniSA Business
 
 ## Supervisor
 [Professor Ruth Rentschler](https://people.unisa.edu.au/Ruth.Rentschler)<br>
