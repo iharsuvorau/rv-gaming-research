@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://iharsuvorau.github.io/rv-gaming-research/"
 theme = "hugo-theme-codex"
 languageCode = "en-us"
 title = "Video game makers' free time"
