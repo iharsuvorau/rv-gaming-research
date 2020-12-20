@@ -1,13 +1,13 @@
 baseURL = "http://example.org/"
 theme = "hugo-theme-codex"
 languageCode = "en-us"
-title = "Leisure experiences of the video game developers"
+title = "Video game makers' free time"
 enableEmoji = true
-copyright = "© 2020−2021. Cultural participation of video game developers"
+copyright = "© 2020−2021. Raman Voranau, raman.voranau@mymail.unisa.edu.au"
 
 [params]
   author = "Raman Voranau"
-  description = "A simple monospaced resume theme for Hugo."
+  description = "I interview video game makers from Australia studying their leisure time."
   favicon = "favicon.ico"
   [params.footer]
     text = "By Raman Voranau"
